@@ -1,0 +1,47 @@
+Not the magic hobo
+14
+1 0 normal
+1 1 normal
+0 0 It is I, someone you have never met before.
+0 1 Yes, I would remember someone with funny glasses like that.
+0 1 Do you have money problems sir? I help everyone, except that one hobo who was in this alley earlier.
+1 0 sad
+0 0 You see, I need a train ticket to visit my sick pet snake that had an operation recently.
+0 0 She's recovering on the countryside, so the train fare costs a lot.
+1 1 sad
+0 1 I can imagine.
+0 0 The problem is, I lost my wallet around here. You have been cursed by the legendary gaming witch, right? Can you help me find it? And maybe my lost son?
+1 0 normal
+1 1 normal
+0 1 Let us focus on the important part first, let us find a wallet.
+
+6
+1 0 normal
+1 1 normal
+0 0 Ayy, me shinkes be bliming, ye a good lad.
+0 1 Why are you having an accent now, which you didn't before, mysterious stranger?
+1 0 happy
+0 0 Ustjay gnorijay tijay!
+
+8
+1 0 happy
+1 1 normal
+0 0 This is it, this is my wallet! Now I can finally go see my sick pet tiger.
+0 1 Sir, why are you moving towards the liquor store?
+0 0 Oh didn't you know, they sell train tickets too these days!
+1 1 happy
+0 1 We truly live in an age of wonder.
+2 0 0 
+
+40 10
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 10 00 00 00 10 00 -2 00 -2 00 00 00 00 00 10 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 10 00 10 00 00 00 10 00 10 00 00 00 00 00 10 00 10 00 00 00 00 00 00 00 00 -2 00
+-3 -1 00 00 00 00 00 20 20 00 20 20 00 20 00 00 00 00 -2 10 00 10 20 00 35 00 00 -5 00 00 00 00 00 00 00 00 00 00 10 -4
+10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 00 00 10 10 10 10 10 10 10 10 10 10 10
+

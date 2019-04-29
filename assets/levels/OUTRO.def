@@ -1,0 +1,67 @@
+[Header]
+Sprites = levels/OUTRO.sff
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+
+[Text 1]
+Speaker = ""
+Text = "And thus, the witch, who was also David's real father, offered to turn David back into a human."
+
+[Text 1]
+Speaker = ""
+Text = "But David, having grown accustomed to his new body, refused."
+
+
+[Text 1]
+Speaker = ""
+Text = "'All I  ever did was play video games anyway, so why bother', he said."
+
+
+[Text 1]
+Speaker = ""
+Text = "'I look really cool, I'm gonna get all the chicks like that.'"
+
+
+[Text 1]
+Speaker = ""
+Text = "As for the legendary gaming witch..."
+
+[Text 1]
+Speaker = ""
+Text = "She formed a clan with David and they ruled the galaxy as father and son in Battleshoot Galaxy, the sequel to Battleshoot."
+
+
+
+[Text 1]
+Speaker = ""
+Text = "A true happy end."
+
+[Text 1]
+Speaker = ""
+Text = "And the moral of the story: Always keep your wallet safe, because Moneyman isn't real, and even if he was, he'd be playing looter shooters right now."
+
+
+[Text 1]
+Speaker = ""
+Text = "Thanks for playing!"
+
+
+[Text 1]
+Speaker = ""
+Text = "The end!"
+
+[Image 1]
+Group = 1
+Item = 1
+
+
+[Text 1]
+Speaker = ""
+Text = "      "
+
+[Title]

@@ -1,0 +1,117 @@
+[Header]
+Sprites = levels/INTRO.sff
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+
+[Text 1]
+Speaker = ""
+Text = "I know you prefer MS Paint Indie Schlock, but are you per chance familiar with Battleshoot?"
+
+[Text 1]
+Speaker = ""
+Text = "With around 17 billion players per day, it is the most popular shooter in the world."
+
+[Image 1]
+Group = 1
+Item = 1
+
+[Text 1]
+Speaker = ""
+Text = "Dominating the ranking list as number 1 right now is David Osh."
+
+[Image 1]
+Group = 1
+Item = 2
+
+[Text 1]
+Speaker = ""
+Text = "His secret? Spending enormous amounts of money on the game to make sure his weapons are 2000% better than everybody else's."
+
+
+[Text 1]
+Speaker = ""
+Text = "Life was sweet for David, with all the comforts a first-ranker in a popular video game has."
+
+[Text 1]
+Speaker = ""
+Text = "Such as..."
+
+
+[Image 1]
+Group = 1
+Item = 3
+
+[Text 1]
+Speaker = ""
+Text = "..."
+
+[Text 1]
+Speaker = ""
+Text = "Anyway, Life was sweet for David."
+
+[Image 1]
+Group = 1
+Item = 4
+
+[Text 1]
+Speaker = ""
+Text = "This sweetness would abruptly end when David played against the legendary gaming witch."
+
+[Image 1]
+Group = 1
+Item = 5
+
+[Text 1]
+Speaker = ""
+Text = "She was a sore loser, so when David crushed her, she lifted her gaming wand and said:"
+
+[Text 1]
+Speaker = ""
+Text = "'EGGS MILK BREAD NEWT EYES'"
+
+[Image 1]
+Group = 1
+Item = 6
+
+[Text 1]
+Speaker = ""
+Text = "The secret incantation, that was totally not her shopping list, turned David into a one dollar bill."
+
+[Image 1]
+Group = 1
+Item = 7
+
+[Text 1]
+Speaker = ""
+Text = "'If all you are is your money, then live as it. Also, I curse you to help people with their money issues.'"
+
+[Text 1]
+Speaker = ""
+Text = "'Why?'"
+
+[Text 1]
+Speaker = ""
+Text = "'A game needs to happen.'"
+
+[Image 1]
+Group = 1
+Item = 6
+
+[Text 1]
+Speaker = ""
+Text = "With these cryptic words, the witch vanished into a puff of smoke. Kinda pointless since she was at home, but it's the thought that counts."
+
+[Image 1]
+Group = 1
+Item = 7
+
+[Text 1]
+Speaker = ""
+Text = "Thus began David's life as currency."
+
+[Title]

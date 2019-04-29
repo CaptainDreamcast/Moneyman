@@ -1,0 +1,70 @@
+The final boss
+25
+1 0 2007
+1 1 normal
+0 0 It is I, the magical hobo of magic!
+0 1 AH! YOU'RE THE ONE FROM LEVEL ONE!
+0 1 I won't steal any more wallets for you, so buzz off!
+1 0 normal
+0 0 *poof*
+0 0 It was me all along! The legendary gaming witch!
+1 1 confused
+0 1 Who?
+1 0 2006
+0 0 We played a game together recently! I turned you into money!
+0 1 Who?
+1 0 happy
+0 0 A- Anyway, you performed admirably, so I've come to reverse your curse!
+1 1 normal
+0 1 ... Ok.
+1 0 normal
+0 0 There is just a teeny tiny problem: 
+1 0 sad
+0 0 I sold my wand for Battleshoot e-money.
+1 1 angry
+0 1 Who'd do something like that? Use money to win at games?
+1 0 happy
+0 0 So can you use your curse powers to find me a wallet again? Thanks by the way.
+
+6
+1 0 happy
+1 1 angry
+0 0 Hmm? Why I am the "legendary" gaming witch? 
+0 1 I didn't ask.
+0 0 You see, in 1951, I told Ralph Baer-
+0 1 I didn't ASK.
+
+20
+1 0 normal
+1 1 normal
+0 0 !
+1 0 happy
+0 0 That's enough money for a MK41!
+1 1 angry
+0 1 Don't you mean "a wand"?
+1 0 sad
+0 0 Ah, yes yes.
+1 1 normal
+0 1 By the way, what happened to the whole the-hobo-is-my father subplot?
+1 0 normal
+0 0 That was a double-twist.
+1 1 happy
+0 1 Oh, wow, I was worried for a second there.
+1 0 happy
+0 0 I AM your dad though.
+1 1 shocked
+0 1 ... Eh?
+3 0 0
+ 
+60 10
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 -2 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 10 10 10 10 10 10 10 10 10 10 10 00 00 00 00 10 00 00 00 10 00 00 00 10 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 -2 00 00 00 00 00 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 -5 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 10 10 10 10 10 10 00 00 00 00 00 -2 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 10 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 -4 00 -5 00 00 00 00 00 00 00 00 00 00 00 00 00 00 -6 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 10 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 10 00 -5 00 00 00 00 00 00 00 00 00 00 -2 00 00 00 -6 -6 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 10 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 10 10 -5 00 00 00 00 00 00 00 00 00 00 10 00 00 00 -6 -6 -6 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 10 -2 10 -2 00 00 10 00 00 00 00 00 10 00 10 -2 00 -6 -6 -6 -6 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 10 00
+-3 -1 00 00 20 20 20 20 20 20 -2 00 00 00 00 35 20 -2 10 20 20 20 20 36 00 00 00 00 00 -6 -6 -6 -6 -6 00 20 00 20 00 20 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 00 10 10 10 10 10 10 10 20 10 00 00 10 10 10 10 10 10 10 10 10 10 10 00 00 00 10 00 00 10 00 00 00 10 00 00 00 10 00 00 10 00 10
+

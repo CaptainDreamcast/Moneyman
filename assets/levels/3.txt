@@ -1,0 +1,62 @@
+The one game company CEO
+15
+1 0 normal
+1 1 normal
+0 0 I know you didn't ask, but I am the great CEO of the greatest game company in the world, and I am in mortal peril.
+1 0 sad
+0 0 Our great company has only made 5000% net profit this great year and is about to go under.
+1 1 shocked
+0 1 Oh no! Is gaming finished?! 
+1 0 normal
+0 0 My last great hope is to find my great credit card of embezzlement funds and bump the net profit up to a great 10000%. 
+1 1 normal
+0 1 Don't worry, I will help you save gaming and your profits! 
+1 0 sad
+0 0 You would go this far to save gaming?
+0 1 Which heartless monster wouldn't help a poor starving CEO who only has the best interests of gamers at heart.
+0 0 ... True.
+
+11
+1 0 normal
+1 1 normal
+0 0 Our Q and A department has greatly improved ever since we bought orphans to test our games.
+1 1 sad
+0 1 I can't seem to find your credit card anywhere sir!
+0 0 Oh, keep looking. It looks like a wallet, so it shouldn't be hard to miss.
+1 1 happy
+0 1 Thanks for the encouragement sir.
+0 0 Yes, that will be 50 dollars.
+1 1 angry
+0 1 [You hand over 60 dollars]
+
+17
+1 0 normal
+1 1 normal
+0 0 My embezzlement funds!
+0 0 Thank you! Now kids around the world won't have to grow up without the existential knowledge of stealing their parents' credit cards!
+1 1 angry
+0 1 I had a change of heart during my two-minute adventure to find your wallet, sir!
+0 1 You should not use cheap business tactics that suck money out of your players, you should focus on just making good games!
+1 0 happy
+0 0 Wh- what?
+0 0 Good games?
+0 0 I- I never thought about that!
+0 0 Young money-man, you are absolutely right!
+1 0 normal
+0 0 From this day forward, the game industry will no longer use cheap money-making tactics and only focus on making the greatest of games!
+1 1 happy
+0 1 Another day, another industry saved.
+2 0 0
+ 
+40 10
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 -5 -6 00 00 00 00 00 00 00 00 00 00 00 00 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 -5 -6 00 00 00 00 00 00 00 00 00 00 00 00 10 10 00 00 00 -4 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 -5 -6 00 00 00 00 00 00 00 00 00 10 00 00 10 10 10 10 10 10 00 00 00 00 00 00 00 00 00
+-3 -1 00 00 00 00 00 00 -2 35 36 -5 -6 20 00 00 00 00 -2 00 00 00 10 20 00 00 00 00 00 00 00 00 00 20 -2 20 20 20 20 20
+10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 00 00 00 10 10 10 10 10 10 10 10 10 00 00 10 10 10 10 10 10 10 10 10 10 10
+

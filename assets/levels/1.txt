@@ -1,0 +1,59 @@
+Random kid that talked to you
+22
+1 0 normal
+1 1 normal
+0 0 AH!
+0 0 YOU'RE!
+1 1 happy
+0 1 That's right, I'm David Osh, the best Battleshoot play-
+1 0 happy
+0 0 YOU'RE MONEYMAN! I watch your TV show ever Saturday morning!
+1 1 angry
+0 1 ... Sure, whatever. I'm Honeyman.
+0 0 I have all your toys! 
+1 0 sad
+0 0 I wanted to buy your new game, but I lost my wallet!
+1 1 normal
+0 1 Did you lose it around here, circa two screen spaces away?
+1 0 normal
+0 0 No, I lost it in an ally, near a distinctly walletless hobo!
+0 1 ... Oh no.
+0 1 Look, I'll find you a wallet, just leave it to Moneyman, Defender of Justice!
+1 0 happy
+0 0 Yaaay!
+0 1 (Is this going to turn into a pyramid scheme?)
+
+9
+1 0 normal
+1 1 normal
+0 0 Do your finishing move!
+1 1 confused
+0 1 Oh right... my... finishing move...?
+1 0 happy
+0 0 The steal-your-parents'-credit-card and-send-the-three-numbers-on-the-back beam!
+1 1 shocked
+0 1 (What are they putting in kids' shows these days?)
+
+9
+1 0 happy
+1 1 normal
+0 0 Yaaayyy! A wallet! Thank you Mr. Moneyman! You're a hero!
+0 1 It's... um... a hero's job kid. Just keep your wallet safe from now on, ok!
+1 0 normal
+0 0 That's strange, isn't your slogan in the show "A loose wallet and a heart of spending"?
+1 1 shocked
+0 1 (WHAT ARE THEY PUTTING IN KIDS' SHOWS THESE DAYYYS?)
+2 0 0
+
+20 10
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 10 00 00 00 -4 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 10 00 00 00 10 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 10 00 00 00 00 00 10
+-3 -1 00 00 00 00 00 20 -2 00 00 00 35 -5 00 00 00 00 -2 10
+10 10 10 10 10 00 00 10 10 10 10 10 10 10 10 10 10 10 10 10
+

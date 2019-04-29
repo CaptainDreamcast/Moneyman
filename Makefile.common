@@ -1,0 +1,1 @@
+OBJS = main.o collectablehandler.o collision.o gamescreen.o gatehandler.o level.o player.o questgiver.o storyscreen.o titlescreen.o

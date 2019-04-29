@@ -1,0 +1,57 @@
+Wounded non-hoboistic man
+21
+1 0 normal
+1 1 normal
+0 0 AAAAAAARRRGHHHH, THE PAIN!
+1 1 shocked
+0 1 Sir, what is wrong with you? Should I call an ambulance?
+0 0 No... It's just...
+1 0 sad
+0 0 My pet unicorn is dying and I feel her pain due to my immense empathy! 
+0 0 Unless I can buy her a miracle elixir, she will die of... of... Illeritis.
+0 1 Illeritis?! The illness that claimed 5 billion lives last year?!
+1 0 normal
+0 0 You understand the gravity of the situation, good.
+0 0 Then you must realize we have no time to waste.
+1 0 sad
+0 0 We need to find my lost wallet! ARRRRRGH, THE PAIN!
+1 1 normal
+0 1 SIR! You stay here and rest, while I solve a ridiculously easy puzzle to find your wallet!
+1 0 normal
+0 0 Thanks young man. I'd like to believe that if I had a son, he would be like you.
+1 1 angry
+0 1 Hmmm.
+
+5
+1 0 normal
+1 1 shocked
+0 0 ARGH, THE PAIN!
+0 0 Quick! My dragon is dying!
+0 1 Oh no!
+
+12
+1 0 normal
+1 1 normal
+0 0 This wallet! Could it be!
+1 1 happy
+0 1 Yes sir... You can save your quetzalcoatl now!
+1 0 happy
+0 0 Thanks son, I will immediately make my way towards the liquor store that sells the elixir!
+1 1 sad
+0 1 GODSPEED SIR! I PRAY FOR YOUR SUCCESS!
+1 0 sad
+0 0 SON! YOU WERE A TRUE ALLY!
+2 0 0
+ 
+40 10
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 -2 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 36 -2 -2 -2 -2 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 -4 36 36 36 36 00 36 00 -2 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 -6 -6 -6 -6 -6 00 -6 36 36 -2 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 -5 00 00 00 00 00 -6 -6 -6 -6 00 10 -2 10 10 00 00 00 00 00 00 00 00 00 00 00 00
+-3 -1 00 00 00 00 00 00 00 -2 00 35 00 -5 20 00 00 00 20 00 00 00 00 -2 10 20 00 00 10 20 00 00 00 00 00 00 00 00 00 00
+10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 00 00 00 10 10 10 10 10 10 10 20 10 00 00 10 10 10 10 10 10 10 10 10 10 10
+

@@ -1,0 +1,67 @@
+Magical Hobo
+16
+1 0 normal
+1 1 normal
+0 0 It is I, the magical hobo of tutorials and expertise
+1 1 angry
+0 1 Uhhh...
+0 0 In your adventure, you will help many people with their money problems.
+1 0 sad
+0 0 Take me for example, I have lost my wallet, full of my hobo riches.
+0 1 Uhhhhhh...
+0 0 I need that money for the my puppy dog's operation, it's not for booze
+1 0 normal
+0 0 I swear on my kitty cat that needs an operation, it's not for booze. 
+1 1 normal
+0 1 You have presented a believable story, I will return your wallet to you, magical hobo of tutorials and expertise.
+1 0 sad
+0 0 It's not for booze.
+
+23
+1 0 normal
+1 1 normal
+0 0 Did you know you can press the jump button to jump?
+0 1 Yes, it's A. Very convenient, because it is A both on a keyboard and a controller.
+0 0 Ok, ok, but did you know you could press the shoot button to shoot?
+0 1 Whoa, really? I can shoot?
+1 0 happy
+0 0 No, but if you could, you would use the shoot button.
+1 1 angry
+0 1 ...
+0 0 While you're already angry, you turn into a penny after touching spikes as a dollar.
+0 1 Why?
+0 0 Touch them again and you die. Collect a coin to turn back into paper money.
+0 1 Why?
+0 0 Collect another coin and you turn into heavy gold. You can use switches like that!
+1 0 happy
+0 0 Pretty cool huh?
+0 1 ...
+1 0 normal
+0 0 ...
+1 1 happy
+1 0 happy
+0 1 Yeah!
+
+9
+1 0 happy
+1 1 normal
+0 0 The magical wallet of tutorials and expertise! You found it!
+0 0 Now I can get the operation for my hamster!
+1 1 happy
+0 1 I'm just glad your rabbit can get the operation now.
+1 0 normal
+0 0 If you'll excuse me, I'll prepare for its operation at the liquor store over there.
+2 0 0
+
+20 10
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 10 00 00 00 -4 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 10 00 00 00 10 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 10 00 00 00 00 00 10
+-3 -1 00 00 00 00 00 00 00 00 00 00 20 00 00 00 00 00 -2 10
+10 10 10 10 10 00 00 10 10 10 10 10 10 10 10 10 10 10 10 10
+
